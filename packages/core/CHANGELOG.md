@@ -1,5 +1,11 @@
 # @wagmi/core
 
+## 0.5.1
+
+### Patch Changes
+
+- [#767](https://github.com/wagmi-dev/wagmi/pull/767) [`e9392f3`](https://github.com/wagmi-dev/wagmi/commit/e9392f396e48e928bd9d2522e3ad671c589f08cb) Thanks [@klyap](https://github.com/klyap)! - Add Optimism Goerli chain ahead of [Kovan deprecation](https://dev.optimism.io/kovan-to-goerli).
+
 ## 0.5.0
 
 ### Minor Changes
